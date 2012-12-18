@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-Sauna::Application.config.secret_token = '619f39df43a249523c0918461c5da1a5b5d39a4075c5f6271974acf3d3f2f989e629f917adf783c1f127d8b9dacd33a165bb8508c3f99c484875a496e49c397d'
+Sauna::Application.config.secret_token = 'cbc52a56b7d524813fff404411c8d7a10c7a56c4cbd3a248ba49275a18fe2d9cb400afbcd1d1c6509c30317dedee1ceedc010cdee719ecaccc010b2b46bc415d'
